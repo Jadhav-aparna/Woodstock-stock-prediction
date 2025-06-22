@@ -1,0 +1,1 @@
+_pycache_/\n*pyc\n*.pkl\n*.json\n*.csv\n*._checkpoints/\nkaggle.json\n.env
